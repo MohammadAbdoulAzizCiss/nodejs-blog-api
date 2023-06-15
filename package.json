@@ -1,0 +1,24 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "blog API using Nodejs, Express and Mongoose",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "NodeJs",
+    "Express",
+    "API",
+    "Mongoose"
+  ],
+  "author": "MohammadAbdoulAzizCISS",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongoose": "^7.2.4",
+    "nodemon": "^2.0.22"
+  }
+}
